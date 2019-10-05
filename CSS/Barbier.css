@@ -33,3 +33,9 @@ h1{
     justify-content: center;
     align-items: center;
 }
+
+@media (max-width: 600px) {
+    .willem-picture{
+        margin-top: -50px;
+    }
+}
